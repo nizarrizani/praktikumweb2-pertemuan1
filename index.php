@@ -20,7 +20,7 @@
             <?php include "components/nav.php" ?>
 
             <div class="content-fluid px-4">
-                <?php include "pages/dashboard.php" ?>
+                <?php include "routes.php" ?>
             </div>
         </div>
         
